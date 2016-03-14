@@ -1,0 +1,28 @@
+name: Rebecca Janek
+favicon: null
+layout_spectrum: 0.08060309407301247
+typography_spectrum: 0.19301858660764992
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9640499916858971
+  lightness: 0.6047581103630364
+  saturation: 0.9363337347749621
+  rhythmicContrast: 0.1074433303438127
+purpose: []
