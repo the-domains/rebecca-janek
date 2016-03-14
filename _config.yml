@@ -1,7 +1,7 @@
 name: Rebecca Janek
 favicon: null
-layout_spectrum: 0.08060309407301247
-typography_spectrum: 0.19301858660764992
+layout_spectrum: 0.10475
+typography_spectrum: 0.92165
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9640499916858971
-  lightness: 0.6047581103630364
-  saturation: 0.9363337347749621
-  rhythmicContrast: 0.1074433303438127
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
